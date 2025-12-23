@@ -1,5 +1,5 @@
 # MobileSleepNet
-Codes and Video demonstration for the paper titled "MobileSleepNet: An Ultra-Lightweight Model with Hybrid Temporal Refinement for Single-Channel EEG Sleep Staging on Smartphones".
+Codes and Video demonstration for the paper titled "MobileSleepNet: A Deployment-Oriented Framework for Real-Time Sleep Staging on Mobile Devices".
 
 This paper has been submitted to IEEE Journal of Biomedical and Health Informatics(IEEE JBHI). 
 
