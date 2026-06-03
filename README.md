@@ -3,9 +3,9 @@ Codes and Video demonstration for the paper titled "MobileSleepNet: A Deployment
 
 This paper has been submitted to IEEE Journal of Biomedical and Health Informatics(IEEE JBHI). 
 
-Data Preparation：
-Download the Sleep-EDF 2013 dataset and prepare it in .npzformat. Update the data path in the configuration:
+## Quick Start
+### 1. Prepare Data
+Download the Sleep-EDF 2013 dataset and prepare it in .npz format. Update the data path in the configuration:
 DATA_PATH = "./datasets/sleepedf-2013/npz/sleep_edf_processed_Fpz.npz"
-
-Training：
+### 2. Training model
 python MobileSleepNet.py
