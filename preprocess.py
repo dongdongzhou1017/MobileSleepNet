@@ -56,7 +56,7 @@ def notch_filter(data, freq, fs, Q=30):
 
 fs = 100  
 eeg_lowcut = 0.3
-eeg_highcut = 45
+eeg_highcut = 35
 
 fold_label = []
 fold_psg = []
