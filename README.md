@@ -1,5 +1,5 @@
 # MobileSleepNet
-Codes and Video demonstration for the paper titled "MobileSleepNet: A Deployment-Oriented Framework for Real-Time Sleep Staging on Mobile Devices".
+Codes and Video demonstration for the paper titled "MobileSleepNet: A Deployment-Oriented Framework for Sleep Staging on Mobile Devices".
 
 This paper has been submitted to IEEE Journal of Biomedical and Health Informatics (IEEE JBHI). 
 
