@@ -1,7 +1,7 @@
 
 # MobileSleepNet
 
-code for "MobileSleepNet: A Deployment-Oriented Framework for Sleep Staging on Mobile Devices"
+Code for "MobileSleepNet: A Deployment-Oriented Framework for Sleep Staging on Mobile Devices".
 This paper has been submitted to IEEE Journal of Biomedical and Health Informatics (IEEE JBHI). 
 
 ## Overview
