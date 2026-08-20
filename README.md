@@ -73,7 +73,6 @@ If you find this useful, please cite our work as follows:
   volume={},
   number={},
   pages={1-10},
-  keywords={Modeling;Sleep;Electroencephalography;Educational institutions;Probability;Convolutional neural networks;Measurement;Hardware;Technology;Energy consumption;Sleep staging;On-device inference;Edge computing;Single-channel EEG;Lightweight model},
   doi={10.1109/JBHI.2026.3725115}}
 
 
