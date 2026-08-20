@@ -64,6 +64,7 @@ The model classifies 5 sleep stages:
 
 ## Citation
 If you find this useful, please cite our work as follows:
+
 @ARTICLE{11657656,
   author={Zhou, Dongdong and Wang, Zhaowen and Zhang, Jiacheng and Yu, Tiankuo and Xu, Qi and Zhang, Qiang and Cong, Fengyu},
   journal={IEEE Journal of Biomedical and Health Informatics}, 
