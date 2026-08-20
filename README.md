@@ -62,4 +62,18 @@ The model classifies 5 sleep stages:
 - [Utils.py]: Utility functions for evaluation, metrics calculation, and visualization
 - [DataGenerator.py]: Data loading, preprocessing, and k-fold cross-validation handling
 
+## Citation
+If you find this useful, please cite our work as follows:
+@ARTICLE{11657656,
+  author={Zhou, Dongdong and Wang, Zhaowen and Zhang, Jiacheng and Yu, Tiankuo and Xu, Qi and Zhang, Qiang and Cong, Fengyu},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={MobileSleepNet: A Deployment-Oriented Framework for Sleep Staging on Mobile Devices}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-10},
+  keywords={Modeling;Sleep;Electroencephalography;Educational institutions;Probability;Convolutional neural networks;Measurement;Hardware;Technology;Energy consumption;Sleep staging;On-device inference;Edge computing;Single-channel EEG;Lightweight model},
+  doi={10.1109/JBHI.2026.3725115}}
+
+
 
